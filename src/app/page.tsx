@@ -35,21 +35,21 @@ export default function Home() {
               </button>
             </a>
             <a href='#' className='bg-white/5 group rounded overflow-hidden flex items-center gap-4 hover:bg-white/10 transition-colors'>
-              <Image src='../album.jpg' width={104} height={104} alt="Capa do álbum 'Quest for Fire' de Skrillex"/>
+              <Image src='./album.jpg' width={104} height={104} alt="Capa do álbum 'Quest for Fire' de Skrillex"/>
               <strong>Quest For Fire</strong>
               <button className='invisible group-hover:visible w-12 h-12 flex items-center justify-center pl-1 rounded-full bg-green-400 text-black ml-auto mr-8'>
                 <Play fill='black'/>
               </button>
             </a>
             <a href='#' className='bg-white/5 group rounded overflow-hidden flex items-center gap-4 hover:bg-white/10 transition-colors'>
-              <Image src='../album.jpg' width={104} height={104} alt="Capa do álbum 'Quest for Fire' de Skrillex"/>
+              <Image src='./album.jpg' width={104} height={104} alt="Capa do álbum 'Quest for Fire' de Skrillex"/>
               <strong>Quest For Fire</strong>
               <button className='invisible group-hover:visible w-12 h-12 flex items-center justify-center pl-1 rounded-full bg-green-400 text-black ml-auto mr-8'>
                 <Play fill='black'/>
               </button>
             </a>
             <a href='#' className='bg-white/5 group rounded overflow-hidden flex items-center gap-4 hover:bg-white/10 transition-colors'>
-              <Image src='../album.jpg' width={104} height={104} alt="Capa do álbum 'Quest for Fire' de Skrillex"/>
+              <Image src='./album.jpg' width={104} height={104} alt="Capa do álbum 'Quest for Fire' de Skrillex"/>
               <strong>Quest For Fire</strong>
               <button className='invisible group-hover:visible w-12 h-12 flex items-center justify-center pl-1 rounded-full bg-green-400 text-black ml-auto mr-8'>
                 <Play fill='black'/>

@@ -21,42 +21,42 @@ export default function Home() {
           <h1 className='font-semibold text-3xl mt-10 md:text-2xl md:mt-5'>Good Afternoon</h1>
           <div className='grid lg:grid-cols-3 gap-4 mt-4 md:grid-cols-2'>
             <a href='#' className='bg-white/5 group rounded overflow-hidden flex items-center gap-4 hover:bg-white/10 transition-colors'>
-              <Image className='md:w-16 md:h-16 lg:w-auto lg:h-auto' src='/album.jpg' width={104} height={104} alt="Capa do álbum 'Quest for Fire' de Skrillex"/>
+              <Image className='md:w-16 md:h-16 lg:w-auto lg:h-auto' src='./album.jpg' width={104} height={104} alt="Capa do álbum 'Quest for Fire' de Skrillex"/>
               <strong className='md:text-xs lg:text-base'>Quest For Fire</strong>
               <button className='invisible group-hover:visible lg:w-12 lg:h-12 md:w-6 md:h-6 flex items-center justify-center lg:pl-1 md:pl-0.5 rounded-full bg-green-400 text-black ml-auto lg:mr-8 md:mr-4'>
                 <Play className='lg:w-6 lg:h-6 md:w-3 md:h-3' fill='black'/>
               </button>
             </a>
             <a href='#' className='bg-white/5 group rounded overflow-hidden flex items-center gap-4 hover:bg-white/10 transition-colors'>
-              <Image className='md:w-16 md:h-16 lg:w-auto lg:h-auto' src='/album.jpg' width={104} height={104} alt="Capa do álbum 'Quest for Fire' de Skrillex"/>
+              <Image className='md:w-16 md:h-16 lg:w-auto lg:h-auto' src='./album.jpg' width={104} height={104} alt="Capa do álbum 'Quest for Fire' de Skrillex"/>
               <strong className='md:text-xs lg:text-base'>Quest For Fire</strong>
               <button className='invisible group-hover:visible lg:w-12 lg:h-12 md:w-6 md:h-6 flex items-center justify-center lg:pl-1 md:pl-0.5 rounded-full bg-green-400 text-black ml-auto lg:mr-8 md:mr-4'>
                 <Play className='lg:w-6 lg:h-6 md:w-3 md:h-3' fill='black'/>
               </button>
             </a>
             <a href='#' className='bg-white/5 group rounded overflow-hidden flex items-center gap-4 hover:bg-white/10 transition-colors'>
-              <Image className='md:w-16 md:h-16 lg:w-auto lg:h-auto' src='/album.jpg' width={104} height={104} alt="Capa do álbum 'Quest for Fire' de Skrillex"/>
+              <Image className='md:w-16 md:h-16 lg:w-auto lg:h-auto' src='./album.jpg' width={104} height={104} alt="Capa do álbum 'Quest for Fire' de Skrillex"/>
               <strong className='md:text-xs lg:text-base'>Quest For Fire</strong>
               <button className='invisible group-hover:visible lg:w-12 lg:h-12 md:w-6 md:h-6 flex items-center justify-center lg:pl-1 md:pl-0.5 rounded-full bg-green-400 text-black ml-auto lg:mr-8 md:mr-4'>
                 <Play className='lg:w-6 lg:h-6 md:w-3 md:h-3' fill='black'/>
               </button>
             </a>
             <a href='#' className='bg-white/5 group rounded overflow-hidden flex items-center gap-4 hover:bg-white/10 transition-colors'>
-              <Image className='md:w-16 md:h-16 lg:w-auto lg:h-auto' src='/album.jpg' width={104} height={104} alt="Capa do álbum 'Quest for Fire' de Skrillex"/>
+              <Image className='md:w-16 md:h-16 lg:w-auto lg:h-auto' src='./album.jpg' width={104} height={104} alt="Capa do álbum 'Quest for Fire' de Skrillex"/>
               <strong className='md:text-xs lg:text-base'>Quest For Fire</strong>
               <button className='invisible group-hover:visible lg:w-12 lg:h-12 md:w-6 md:h-6 flex items-center justify-center lg:pl-1 md:pl-0.5 rounded-full bg-green-400 text-black ml-auto lg:mr-8 md:mr-4'>
                 <Play className='lg:w-6 lg:h-6 md:w-3 md:h-3' fill='black'/>
               </button>
             </a>
             <a href='#' className='bg-white/5 group rounded overflow-hidden flex items-center gap-4 hover:bg-white/10 transition-colors'>
-              <Image className='md:w-16 md:h-16 lg:w-auto lg:h-auto' src='/album.jpg' width={104} height={104} alt="Capa do álbum 'Quest for Fire' de Skrillex"/>
+              <Image className='md:w-16 md:h-16 lg:w-auto lg:h-auto' src='./album.jpg' width={104} height={104} alt="Capa do álbum 'Quest for Fire' de Skrillex"/>
               <strong className='md:text-xs lg:text-base'>Quest For Fire</strong>
               <button className='invisible group-hover:visible lg:w-12 lg:h-12 md:w-6 md:h-6 flex items-center justify-center lg:pl-1 md:pl-0.5 rounded-full bg-green-400 text-black ml-auto lg:mr-8 md:mr-4'>
                 <Play className='lg:w-6 lg:h-6 md:w-3 md:h-3' fill='black'/>
               </button>
             </a>
             <a href='#' className='bg-white/5 group rounded overflow-hidden flex items-center gap-4 hover:bg-white/10 transition-colors'>
-              <Image className='md:w-16 md:h-16 lg:w-auto lg:h-auto' src='/album.jpg' width={104} height={104} alt="Capa do álbum 'Quest for Fire' de Skrillex"/>
+              <Image className='md:w-16 md:h-16 lg:w-auto lg:h-auto' src='./album.jpg' width={104} height={104} alt="Capa do álbum 'Quest for Fire' de Skrillex"/>
               <strong className='md:text-xs lg:text-base'>Quest For Fire</strong>
               <button className='invisible group-hover:visible lg:w-12 lg:h-12 md:w-6 md:h-6 flex items-center justify-center lg:pl-1 md:pl-0.5 rounded-full bg-green-400 text-black ml-auto lg:mr-8 md:mr-4'>
                 <Play className='lg:w-6 lg:h-6 md:w-3 md:h-3' fill='black'/>
@@ -67,27 +67,27 @@ export default function Home() {
           <h2 className='font-semibold text-2xl md:text-xl mt-10'>Made for Pedro Santos</h2>
           <div className='grid lg:grid-cols-5 md:grid-cols-2 gap-4 mt-4'>
             <a href='#' className="bg-white/5 p-2 rounded-md flex flex-col gap-2 hover:bg-white/10 transition-colors">
-              <Image src='/album.jpg' className='w-full md:w-auto md:h-auto' width={120} height={120} alt="Capa do álbum 'Quest for Fire' de Skrillex"/>
+              <Image src='./album.jpg' className='w-full md:w-auto md:h-auto' width={120} height={120} alt="Capa do álbum 'Quest for Fire' de Skrillex"/>
               <strong className='font-semibold lg:text-base md:text-sm'>Daily Mix 1</strong>
               <span className='lg:text-sm md:text-xs text-zinc-400 md:truncate'>Zedd, Nora en Pure, Avicii and more</span>
             </a>
             <a href='#' className="bg-white/5 p-2 rounded-md flex flex-col gap-2 hover:bg-white/10 transition-colors">
-              <Image src='/album.jpg' className='w-full md:w-auto md:h-auto' width={120} height={120} alt="Capa do álbum 'Quest for Fire' de Skrillex"/>
+              <Image src='./album.jpg' className='w-full md:w-auto md:h-auto' width={120} height={120} alt="Capa do álbum 'Quest for Fire' de Skrillex"/>
               <strong className='font-semibold lg:text-base md:text-sm'>Daily Mix 1</strong>
               <span className='lg:text-sm md:text-xs text-zinc-400 md:truncate'>Zedd, Nora en Pure, Avicii and more</span>
             </a>
             <a href='#' className="md:hidden lg:flex bg-white/5 p-2 rounded-md flex flex-col gap-2 hover:bg-white/10 transition-colors">
-              <Image src='/album.jpg' className='w-full' width={120} height={120} alt="Capa do álbum 'Quest for Fire' de Skrillex"/>
+              <Image src='./album.jpg' className='w-full' width={120} height={120} alt="Capa do álbum 'Quest for Fire' de Skrillex"/>
               <strong className='font-semibold'>Daily Mix 1</strong>
               <span className='lg:text-sm text-zinc-400'>Zedd, Nora en Pure, Avicii and more</span>
             </a> 
             <a href='#' className="md:hidden lg:flex bg-white/5 p-2 rounded-md flex flex-col gap-2 hover:bg-white/10 transition-colors">
-              <Image src='/album.jpg' className='w-full' width={120} height={120} alt="Capa do álbum 'Quest for Fire' de Skrillex"/>
+              <Image src='./album.jpg' className='w-full' width={120} height={120} alt="Capa do álbum 'Quest for Fire' de Skrillex"/>
               <strong className='font-semibold'>Daily Mix 1</strong>
               <span className='lg:text-sm text-zinc-400'>Zedd, Nora en Pure, Avicii and more</span>
             </a> 
             <a href='#' className="md:hidden lg:flex bg-white/5 p-2 rounded-md flex flex-col gap-2 hover:bg-white/10 transition-colors">
-              <Image src='/album.jpg' className='w-full' width={120} height={120} alt="Capa do álbum 'Quest for Fire' de Skrillex"/>
+              <Image src='./album.jpg' className='w-full' width={120} height={120} alt="Capa do álbum 'Quest for Fire' de Skrillex"/>
               <strong className='font-semibold'>Daily Mix 1</strong>
               <span className='lg:text-sm text-zinc-400'>Zedd, Nora en Pure, Avicii and more</span>
             </a> 
